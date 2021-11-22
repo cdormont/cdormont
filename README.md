@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cdormont
+- 👀 I’m interested in: Coding, reading
+- 🌱 I’m currently learning HTML/PHP
+- 💞️ I’m looking to collaborate: nothing at the moment
+- 📫 How to reach me: rouge@theguidepostpaper.ga
